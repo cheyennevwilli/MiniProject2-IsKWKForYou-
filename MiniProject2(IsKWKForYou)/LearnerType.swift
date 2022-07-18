@@ -29,7 +29,7 @@ class LearnerType: UIViewController {
     
     
     @IBAction func kinestheticTapped(_ sender: Any) {        
-        type = "KWK encourages 'code alongs' in whcih you will write code alongside your instructor - perfect for a kinesthetic learner such as yourself!"
+        type = "KWK encourages 'code alongs,' in which you will write code alongside your instructor - perfect for a kinesthetic learner such as yourself!"
     }
     
     /*
